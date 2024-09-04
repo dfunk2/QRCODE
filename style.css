@@ -1,0 +1,15 @@
+div {
+text-family: Arial, sans-serif;
+color: white;
+background-color: #68778D;
+text-align: center;
+text-transform: uppercase;
+}
+
+footer {
+background-color: #68778D;
+color: white;
+text-align: center;
+padding: 60px 0;
+clear: both;
+}
