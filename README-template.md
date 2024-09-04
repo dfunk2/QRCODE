@@ -1,0 +1,1 @@
+# QR Code webpage. Added boarders to header and footer with 60px padding.
